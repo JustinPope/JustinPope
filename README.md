@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! 👋 I'm Justin Pope
+I’m a recent graduate from Simon Fraser University with a Bachelor of Science in Computing Science and a Business Administration minor. Passionate about software development, IT infrastructure, and data analysis, I enjoy building solutions that are both efficient and user-friendly.
 
-<!--
-**JustinPope/JustinPope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Technical Interests:
 
-Here are some ideas to get you started:
+Software Development (Python, JavaScript, TypeScript)
+IT Infrastructure (Windows Server, Active Directory, Cloud Computing)
+Data Analysis & Automation (SQL, PowerShell, Python)
+Cybersecurity (NIST, CIS, MITRE frameworks)
+💡 Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Windows troubleshooting chatbot with a GUI
+My personal portfolio website
+📫 Let's Connect!
+
+LinkedIn
+Portfolio
